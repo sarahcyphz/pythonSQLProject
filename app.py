@@ -40,5 +40,5 @@ def menu():
             print(f"The best preparation method for {name} is: {best_method[2]} ")
         else:
             print("invalid input")
-
+# testing
 menu()
